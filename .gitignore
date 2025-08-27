@@ -1,0 +1,65 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\code\news-v2.3\heima-leadnews\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# 编译生成的文件
+target/
+*.class
+
+# IDE 相关文件
+/.idea/
+.classpath
+.project
+.settings/
+*.iml
+
+# 系统生成的临时文件
+*.swp
+*.swo
+*.swn
+
+# 日志文件
+*.log
+*.bak
+*.tmp
+
+# 操作系统生成的隐藏文件
+.DS_Store
+Thumbs.db
+
+# Maven 相关
+*.jar.sha1
+*.pom.sha1
+!pom.xml  # 排除 pom.xml 本身
+mvnw.cmd
+mvnw
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+**/target/
+**/pom.xml.versionsBackup
+
+# IDE 缓存文件
+.cache/
+.metadata/
+
+# 资源文件(视项目而定)
+# 可以根据项目的具体情况添加，例如：
+# /src/main/webapp/WEB-INF/classes/*
+# /src/main/resources/application.properties  # 排除 application.properties
+# /src/main/resources/application.yml
+
+# Git 相关
+.git/
+# .gitignore
+
+# 其他
+*.pyc
+*.pyo
+*.zip
+*.war
+*.ear
